@@ -1,20 +1,20 @@
 [
   {
-    "name": "iPad-FAQ",
-    "url": "https://www.melle-gymnasium.de/ipad-faq",
-    "icon": "https://icons.duckduckgo.com/ip3/www.melle-gymnasium.de.ico",
-    "slug": "i-pad-faq",
+    "name": "Google",
+    "url": "https://www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
+    "slug": "google",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1100,
-    "timeDay": 1100,
-    "timeWeek": 1100,
-    "timeMonth": 1100,
-    "timeYear": 1100,
+    "time": 92,
+    "timeDay": 92,
+    "timeWeek": 92,
+    "timeMonth": 92,
+    "timeYear": 92,
     "dailyMinutesDown": {}
   }
 ]
