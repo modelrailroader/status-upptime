@@ -2,9 +2,11 @@
 owner: modelrailroader
 repo: status-iPad-FAQ
 
-#sites:
+sites:
   - #name: iPad-FAQ
     #url: https://www.melle-gymnasium.de/ipad-faq
+  - name: Google
+    url: https://www.google.com
 
 status-website:
   robotsText: "User-agent: * \n Disallow: /"
