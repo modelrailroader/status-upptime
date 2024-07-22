@@ -11,12 +11,30 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 106,
-    "timeDay": 86,
-    "timeWeek": 104,
-    "timeMonth": 115,
+    "timeDay": 84,
+    "timeWeek": 101,
+    "timeMonth": 114,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2024-05-01": 44
     }
+  },
+  {
+    "name": "NextCloud",
+    "url": "https://cloud.jans-allerlei.de",
+    "icon": "https://icons.duckduckgo.com/ip3/cloud.jans-allerlei.de.ico",
+    "slug": "next-cloud",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1501,
+    "timeDay": 1501,
+    "timeWeek": 1501,
+    "timeMonth": 1501,
+    "timeYear": 1501,
+    "dailyMinutesDown": {}
   }
 ]
