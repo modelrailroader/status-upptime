@@ -1,25 +1,5 @@
 [
   {
-    "name": "iPad-FAQ",
-    "url": "https://www.melle-gymnasium.de/ipad-faq",
-    "icon": "https://icons.duckduckgo.com/ip3/www.melle-gymnasium.de.ico",
-    "slug": "i-pad-faq",
-    "status": "down",
-    "uptime": "5.44%",
-    "uptimeDay": "5.44%",
-    "uptimeWeek": "5.44%",
-    "uptimeMonth": "5.44%",
-    "uptimeYear": "5.44%",
-    "time": 1043,
-    "timeDay": 697,
-    "timeWeek": 697,
-    "timeMonth": 697,
-    "timeYear": 1043,
-    "dailyMinutesDown": {
-      "2024-07-25": 0
-    }
-  },
-  {
     "name": "Google",
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
@@ -31,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 145,
-    "timeWeek": 113,
+    "timeDay": 130,
+    "timeWeek": 112,
     "timeMonth": 112,
     "timeYear": 107,
     "dailyMinutesDown": {
@@ -50,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1060,
-    "timeDay": 856,
-    "timeWeek": 1060,
-    "timeMonth": 1060,
-    "timeYear": 1060,
+    "time": 1037,
+    "timeDay": 878,
+    "timeWeek": 1037,
+    "timeMonth": 1037,
+    "timeYear": 1037,
     "dailyMinutesDown": {}
   }
 ]
