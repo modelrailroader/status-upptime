@@ -1,14 +1,16 @@
 # Change these first
 owner: modelrailroader
-repo: status-iPad-FAQ
+repo: status-uptime-jh
 
 sites:
 #  - name: iPad-FAQ
 #    url: https://www.melle-gymnasium.de/ipad-faq
-  - name: Google
-    url: https://www.google.com
   - name: NextCloud
     url: https://cloud.jans-allerlei.de
+  - name: Zeichen gegen Mobbing e. V.
+    url: https://zeichen-gegen-mobbing.de
+  - name: Zeichen gegen Mobbing e. V. (z-g-m.de)
+    url: https://z-g-m.de
 
 status-website:
   robotsText: "User-agent: * \n Disallow: /"
@@ -18,15 +20,13 @@ status-website:
   cname: status.jans-allerlei.de
   logoUrl: https://raw.githubusercontent.com/modelrailroader/status-iPad-FAQ/master/pics/Logo.png
   name: Upptime
-  introTitle: "**Gymnasium Melle** Status Website"
-  introMessage: "Status of webservices of Gymnasium Melle"
+  introTitle: "Jan's Status Website"
+  introMessage: "Status of different webservices hosted and managed by Jan Harms"
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: Gymnasium Melle
-      href: https://www.melle-gymnasium.de
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
