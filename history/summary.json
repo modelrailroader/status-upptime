@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.jans-allerlei.de.ico",
     "slug": "next-cloud",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1463,
-    "timeDay": 1601,
-    "timeWeek": 1582,
-    "timeMonth": 1540,
-    "timeYear": 1463,
-    "dailyMinutesDown": {
-      "2024-09-03": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1452,
+    "timeDay": 1248,
+    "timeWeek": 1472,
+    "timeMonth": 1538,
+    "timeYear": 1452,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zeichen gegen Mobbing e. V.",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1612,
-    "timeDay": 1612,
-    "timeWeek": 1612,
-    "timeMonth": 1612,
-    "timeYear": 1612,
+    "time": 1540,
+    "timeDay": 1324,
+    "timeWeek": 1540,
+    "timeMonth": 1540,
+    "timeYear": 1540,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1503,
-    "timeDay": 1503,
-    "timeWeek": 1503,
-    "timeMonth": 1503,
-    "timeYear": 1503,
+    "time": 1440,
+    "timeDay": 1251,
+    "timeWeek": 1440,
+    "timeMonth": 1440,
+    "timeYear": 1440,
     "dailyMinutesDown": {}
   }
 ]
