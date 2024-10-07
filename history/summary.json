@@ -22,19 +22,19 @@
     "url": "https://zeichen-gegen-mobbing.de",
     "icon": "https://icons.duckduckgo.com/ip3/zeichen-gegen-mobbing.de.ico",
     "slug": "zeichen-gegen-mobbing-e-v",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.82%",
-    "time": 1515,
-    "timeDay": 2108,
-    "timeWeek": 1639,
-    "timeMonth": 1524,
-    "timeYear": 1515,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.80%",
+    "time": 1569,
+    "timeDay": 2933,
+    "timeWeek": 1874,
+    "timeMonth": 1590,
+    "timeYear": 1569,
     "dailyMinutesDown": {
-      "2024-10-07": 9,
+      "2024-10-07": 14,
       "2024-09-24": 85
     }
   },
@@ -44,18 +44,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/z-g-m.de.ico",
     "slug": "zeichen-gegen-mobbing-e-v-z-g-m-de",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1509,
     "timeDay": 2081,
     "timeWeek": 1686,
     "timeMonth": 1533,
     "timeYear": 1509,
-    "dailyMinutesDown": {
-      "2024-10-07": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
