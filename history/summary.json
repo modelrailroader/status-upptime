@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1410,
-    "timeDay": 960,
-    "timeWeek": 1282,
-    "timeMonth": 1339,
-    "timeYear": 1410,
+    "time": 1420,
+    "timeDay": 2264,
+    "timeWeek": 1403,
+    "timeMonth": 1371,
+    "timeYear": 1420,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zeichen-gegen-mobbing.de.ico",
     "slug": "zeichen-gegen-mobbing-e-v",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.83%",
-    "time": 1565,
-    "timeDay": 2567,
-    "timeWeek": 1814,
-    "timeMonth": 1592,
-    "timeYear": 1565,
+    "uptimeYear": "99.84%",
+    "time": 1575,
+    "timeDay": 2014,
+    "timeWeek": 1878,
+    "timeMonth": 1610,
+    "timeYear": 1575,
     "dailyMinutesDown": {
       "2024-09-24": 85
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1503,
-    "timeDay": 1892,
-    "timeWeek": 1655,
-    "timeMonth": 1530,
-    "timeYear": 1503,
+    "time": 1507,
+    "timeDay": 1667,
+    "timeWeek": 1691,
+    "timeMonth": 1539,
+    "timeYear": 1507,
     "dailyMinutesDown": {}
   }
 ]
