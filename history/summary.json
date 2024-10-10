@@ -22,18 +22,19 @@
     "url": "https://zeichen-gegen-mobbing.de",
     "icon": "https://icons.duckduckgo.com/ip3/zeichen-gegen-mobbing.de.ico",
     "slug": "zeichen-gegen-mobbing-e-v",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "99.76%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.80%",
     "time": 1584,
     "timeDay": 1782,
-    "timeWeek": 1863,
+    "timeWeek": 1943,
     "timeMonth": 1629,
     "timeYear": 1584,
     "dailyMinutesDown": {
+      "2024-10-10": 1,
       "2024-10-09": 24,
       "2024-09-24": 85
     }
@@ -43,7 +44,7 @@
     "url": "https://z-g-m.de",
     "icon": "https://icons.duckduckgo.com/ip3/z-g-m.de.ico",
     "slug": "zeichen-gegen-mobbing-e-v-z-g-m-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -54,6 +55,8 @@
     "timeWeek": 1648,
     "timeMonth": 1553,
     "timeYear": 1511,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-10": 0
+    }
   }
 ]
