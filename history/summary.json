@@ -22,7 +22,7 @@
     "url": "https://zeichen-gegen-mobbing.de",
     "icon": "https://icons.duckduckgo.com/ip3/zeichen-gegen-mobbing.de.ico",
     "slug": "zeichen-gegen-mobbing-e-v",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
     "uptimeDay": "98.20%",
     "uptimeWeek": "99.24%",
@@ -34,6 +34,7 @@
     "timeMonth": 1602,
     "timeYear": 1569,
     "dailyMinutesDown": {
+      "2024-10-16": 0,
       "2024-10-15": 26,
       "2024-10-14": 27,
       "2024-10-09": 24,
