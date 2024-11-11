@@ -4,9 +4,9 @@
     "url": "https://cloud.jans-allerlei.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.jans-allerlei.de.ico",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1285,
     "timeMonth": 1414,
     "timeYear": 1416,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-11": 0
+    }
   },
   {
     "name": "Zeichen gegen Mobbing e. V.",
