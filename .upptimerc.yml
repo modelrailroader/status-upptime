@@ -1,10 +1,10 @@
 # Change these first
 owner: modelrailroader
-repo: status-upptime-jh
+repo: status-upptime
 
 sites:
-#  - name: iPad-FAQ
-#    url: https://www.melle-gymnasium.de/ipad-faq
+  - name: iPad-FAQ
+    url: https://www.melle-gymnasium.de/ipad-faq
   - name: NextCloud
     url: https://cloud.jans-allerlei.de
   - name: Zeichen gegen Mobbing e. V.
@@ -14,7 +14,7 @@ sites:
 
 status-website:
   robotsText: "User-agent: * \n Disallow: /"
-  #baseUrl: /status-iPad-FAQ
+  # baseUrl: /status-iPad-FAQ
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.jans-allerlei.de
