@@ -3,14 +3,12 @@ owner: modelrailroader
 repo: status-upptime
 
 sites:
-  - name: iPad-FAQ
-    url: https://www.melle-gymnasium.de/ipad-faq
+  - name: jans-allerlei.de
+    url: https://www.jans-allerlei.de
   - name: NextCloud
     url: https://cloud.jans-allerlei.de
-  - name: Zeichen gegen Mobbing e. V.
-    url: https://zeichen-gegen-mobbing.de
-  - name: Zeichen gegen Mobbing e. V. (z-g-m.de)
-    url: https://z-g-m.de
+  - name: iPad-FAQ
+    url: https://www.melle-gymnasium.de/ipad-faq
 
 status-website:
   robotsText: "User-agent: * \n Disallow: /"
