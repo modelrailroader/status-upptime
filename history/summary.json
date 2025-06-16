@@ -4,18 +4,20 @@
     "url": "https://www.jans-allerlei.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.jans-allerlei.de.ico",
     "slug": "jans-allerlei-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 845,
-    "timeDay": 578,
-    "timeWeek": 692,
-    "timeMonth": 760,
-    "timeYear": 845,
-    "dailyMinutesDown": {}
+    "time": 844,
+    "timeDay": 616,
+    "timeWeek": 687,
+    "timeMonth": 756,
+    "timeYear": 844,
+    "dailyMinutesDown": {
+      "2025-06-16": 0
+    }
   },
   {
     "name": "NextCloud",
