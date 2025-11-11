@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jans-allerlei.de.ico",
     "slug": "jans-allerlei-de",
     "status": "up",
-    "uptime": "74.32%",
+    "uptime": "74.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "74.32%",
+    "uptimeYear": "74.41%",
     "time": 879,
-    "timeDay": 520,
-    "timeWeek": 1041,
-    "timeMonth": 908,
+    "timeDay": 807,
+    "timeWeek": 976,
+    "timeMonth": 917,
     "timeYear": 879,
     "dailyMinutesDown": {
       "2025-11-03": 24,
@@ -103,10 +103,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 1584,
-    "timeDay": 975,
-    "timeWeek": 1295,
-    "timeMonth": 1500,
-    "timeYear": 1625,
+    "timeDay": 1872,
+    "timeWeek": 1411,
+    "timeMonth": 1530,
+    "timeYear": 1627,
     "dailyMinutesDown": {
       "2025-10-18": 19,
       "2025-08-27": 19,
@@ -114,8 +114,7 @@
       "2025-06-05": 16,
       "2025-02-26": 22,
       "2024-12-02": 20,
-      "2024-11-25": 45,
-      "2024-11-11": 16
+      "2024-11-25": 45
     }
   },
   {
@@ -124,16 +123,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.melle-gymnasium.de.ico",
     "slug": "i-pad-faq",
     "status": "up",
-    "uptime": "38.22%",
+    "uptime": "38.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.59%",
-    "time": 1835,
-    "timeDay": 1673,
-    "timeWeek": 1434,
-    "timeMonth": 1631,
-    "timeYear": 1853,
+    "uptimeYear": "75.01%",
+    "time": 1836,
+    "timeDay": 2102,
+    "timeWeek": 1577,
+    "timeMonth": 1666,
+    "timeYear": 1854,
     "dailyMinutesDown": {
       "2025-08-26": 1043,
       "2025-08-25": 1440,
@@ -211,8 +210,7 @@
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
-      "2024-11-12": 1440,
-      "2024-11-11": 1440
+      "2024-11-12": 1440
     }
   }
 ]
