@@ -5,6 +5,10 @@ repo: status-upptime
 sites:
   - name: jans-allerlei.de
     url: https://www.jans-allerlei.de
+  - name: HomeAssistant in Buer
+    url: https://homeassistant.jans-allerlei.de
+  - name: Mealie Rezepte
+    url: https://rezepte.jans-allerlei.de    
   - name: NextCloud
     url: https://cloud.jans-allerlei.de
   - name: iPad-FAQ
